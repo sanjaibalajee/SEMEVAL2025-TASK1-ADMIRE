@@ -1,0 +1,80 @@
+2025-01-31 12:30:53,597 - INFO - 🔄 Starting fresh... No saved file found.
+2025-01-31 12:30:53,604 - INFO - 📌 Total rows to process: 70
+2025-01-31 12:31:22,482 - INFO - ✅ Processed 1/70 rows - Time elapsed: 28.87s - Saved progress.
+2025-01-31 12:31:48,693 - INFO - ✅ Processed 2/70 rows - Time elapsed: 55.09s - Saved progress.
+2025-01-31 12:33:10,840 - INFO - 🔄 Starting fresh... No saved file found.
+2025-01-31 12:33:10,848 - INFO - 📌 Total rows to process: 70
+2025-01-31 12:33:39,626 - INFO - ✅ Processed 1/70 rows - Time elapsed: 28.78s - Saved progress.
+2025-01-31 12:34:04,891 - INFO - ✅ Processed 2/70 rows - Time elapsed: 54.04s - Saved progress.
+2025-01-31 12:34:39,747 - INFO - ✅ Processed 3/70 rows - Time elapsed: 88.90s - Saved progress.
+2025-01-31 12:35:06,536 - INFO - ✅ Processed 4/70 rows - Time elapsed: 115.69s - Saved progress.
+2025-01-31 12:35:38,128 - INFO - ✅ Processed 5/70 rows - Time elapsed: 147.28s - Saved progress.
+2025-01-31 12:36:10,408 - INFO - ✅ Processed 6/70 rows - Time elapsed: 179.56s - Saved progress.
+2025-01-31 12:36:50,767 - INFO - ✅ Processed 7/70 rows - Time elapsed: 219.92s - Saved progress.
+2025-01-31 12:37:35,200 - INFO - ✅ Processed 8/70 rows - Time elapsed: 264.35s - Saved progress.
+2025-01-31 12:38:06,861 - INFO - ✅ Processed 9/70 rows - Time elapsed: 296.01s - Saved progress.
+2025-01-31 12:38:47,202 - INFO - ✅ Processed 10/70 rows - Time elapsed: 336.35s - Saved progress.
+2025-01-31 12:39:20,045 - INFO - ✅ Processed 11/70 rows - Time elapsed: 369.20s - Saved progress.
+2025-01-31 12:39:48,696 - INFO - ✅ Processed 12/70 rows - Time elapsed: 397.85s - Saved progress.
+2025-01-31 12:40:22,376 - INFO - ✅ Processed 13/70 rows - Time elapsed: 431.53s - Saved progress.
+2025-01-31 12:40:53,621 - INFO - ✅ Processed 14/70 rows - Time elapsed: 462.76s - Saved progress.
+2025-01-31 12:41:24,487 - INFO - ✅ Processed 15/70 rows - Time elapsed: 493.64s - Saved progress.
+2025-01-31 12:42:05,830 - INFO - ✅ Processed 16/70 rows - Time elapsed: 534.98s - Saved progress.
+2025-01-31 12:42:44,013 - INFO - ✅ Processed 17/70 rows - Time elapsed: 573.16s - Saved progress.
+2025-01-31 12:43:30,289 - INFO - ✅ Processed 18/70 rows - Time elapsed: 619.44s - Saved progress.
+2025-01-31 12:44:18,239 - INFO - ✅ Processed 19/70 rows - Time elapsed: 667.39s - Saved progress.
+2025-01-31 12:44:56,432 - INFO - ✅ Processed 20/70 rows - Time elapsed: 705.58s - Saved progress.
+2025-01-31 12:57:13,880 - INFO - ✅ Processed 21/70 rows - Time elapsed: 1443.03s - Saved progress.
+2025-01-31 12:57:52,688 - INFO - ✅ Processed 22/70 rows - Time elapsed: 1481.84s - Saved progress.
+2025-01-31 12:58:18,987 - INFO - ✅ Processed 23/70 rows - Time elapsed: 1508.14s - Saved progress.
+2025-01-31 12:58:41,618 - INFO - ✅ Processed 24/70 rows - Time elapsed: 1530.77s - Saved progress.
+2025-01-31 12:59:08,705 - INFO - ✅ Processed 25/70 rows - Time elapsed: 1557.85s - Saved progress.
+2025-01-31 12:59:33,897 - INFO - ✅ Processed 26/70 rows - Time elapsed: 1583.05s - Saved progress.
+2025-01-31 13:00:09,052 - INFO - ✅ Processed 27/70 rows - Time elapsed: 1618.20s - Saved progress.
+2025-01-31 13:00:20,119 - INFO - ✅ Processed 28/70 rows - Time elapsed: 1629.27s - Saved progress.
+2025-01-31 13:00:43,057 - INFO - ✅ Processed 29/70 rows - Time elapsed: 1652.21s - Saved progress.
+2025-01-31 13:01:16,608 - INFO - ✅ Processed 30/70 rows - Time elapsed: 1685.76s - Saved progress.
+2025-01-31 13:01:45,576 - INFO - ✅ Processed 31/70 rows - Time elapsed: 1714.73s - Saved progress.
+2025-01-31 13:02:18,825 - INFO - ✅ Processed 32/70 rows - Time elapsed: 1747.98s - Saved progress.
+2025-01-31 13:02:42,379 - INFO - ✅ Processed 33/70 rows - Time elapsed: 1771.53s - Saved progress.
+2025-01-31 13:03:09,011 - INFO - ✅ Processed 34/70 rows - Time elapsed: 1798.16s - Saved progress.
+2025-01-31 13:03:37,324 - INFO - ✅ Processed 35/70 rows - Time elapsed: 1826.47s - Saved progress.
+2025-01-31 13:04:17,120 - INFO - ✅ Processed 36/70 rows - Time elapsed: 1866.27s - Saved progress.
+2025-01-31 13:04:38,635 - INFO - ✅ Processed 37/70 rows - Time elapsed: 1887.79s - Saved progress.
+2025-01-31 13:05:03,612 - INFO - ✅ Processed 38/70 rows - Time elapsed: 1912.76s - Saved progress.
+2025-01-31 13:05:26,974 - INFO - ✅ Processed 39/70 rows - Time elapsed: 1936.12s - Saved progress.
+2025-01-31 13:05:50,828 - INFO - ✅ Processed 40/70 rows - Time elapsed: 1959.98s - Saved progress.
+2025-01-31 13:06:55,652 - INFO - ✅ Processed 41/70 rows - Time elapsed: 2024.80s - Saved progress.
+2025-01-31 13:07:46,149 - INFO - ✅ Processed 42/70 rows - Time elapsed: 2075.30s - Saved progress.
+2025-02-01 11:21:30,034 - INFO - ✅ Resuming from saved file: train_with_COT.csv
+2025-02-01 11:21:30,035 - INFO - 📌 Total rows to process: 70
+2025-02-01 11:22:06,577 - INFO - ✅ Processed 43/70 rows - Time elapsed: 36.54s - Saved progress.
+2025-02-01 11:22:26,370 - INFO - ✅ Processed 44/70 rows - Time elapsed: 56.33s - Saved progress.
+2025-02-01 11:22:58,952 - INFO - ✅ Processed 45/70 rows - Time elapsed: 88.91s - Saved progress.
+2025-02-01 11:23:22,216 - INFO - ✅ Processed 46/70 rows - Time elapsed: 112.18s - Saved progress.
+2025-02-01 11:23:49,544 - INFO - ✅ Processed 47/70 rows - Time elapsed: 139.51s - Saved progress.
+2025-02-01 11:24:26,262 - INFO - ✅ Processed 48/70 rows - Time elapsed: 176.23s - Saved progress.
+2025-02-01 11:25:03,122 - INFO - ✅ Processed 49/70 rows - Time elapsed: 213.09s - Saved progress.
+2025-02-01 11:25:52,049 - INFO - ✅ Processed 50/70 rows - Time elapsed: 262.01s - Saved progress.
+2025-02-01 11:26:27,219 - INFO - ✅ Processed 51/70 rows - Time elapsed: 297.18s - Saved progress.
+2025-02-01 11:26:56,539 - INFO - ✅ Processed 52/70 rows - Time elapsed: 326.50s - Saved progress.
+2025-02-01 11:27:17,681 - INFO - ✅ Processed 53/70 rows - Time elapsed: 347.64s - Saved progress.
+2025-02-01 11:27:45,257 - INFO - ✅ Processed 54/70 rows - Time elapsed: 375.22s - Saved progress.
+2025-02-01 11:28:14,574 - INFO - ✅ Processed 55/70 rows - Time elapsed: 404.54s - Saved progress.
+2025-02-01 11:28:41,481 - INFO - ✅ Processed 56/70 rows - Time elapsed: 431.45s - Saved progress.
+2025-02-01 11:29:01,101 - INFO - ✅ Processed 57/70 rows - Time elapsed: 451.06s - Saved progress.
+2025-02-01 11:29:27,361 - INFO - ✅ Processed 58/70 rows - Time elapsed: 477.33s - Saved progress.
+2025-02-01 11:29:59,844 - INFO - ✅ Processed 59/70 rows - Time elapsed: 509.81s - Saved progress.
+2025-02-01 11:30:23,750 - INFO - ✅ Processed 60/70 rows - Time elapsed: 533.72s - Saved progress.
+2025-02-01 11:30:52,838 - INFO - ✅ Processed 61/70 rows - Time elapsed: 562.80s - Saved progress.
+2025-02-01 11:31:20,819 - INFO - ✅ Processed 62/70 rows - Time elapsed: 590.78s - Saved progress.
+2025-02-01 11:31:48,793 - INFO - ✅ Processed 63/70 rows - Time elapsed: 618.76s - Saved progress.
+2025-02-01 11:32:16,851 - INFO - ✅ Processed 64/70 rows - Time elapsed: 646.81s - Saved progress.
+2025-02-01 11:32:58,666 - INFO - ✅ Processed 65/70 rows - Time elapsed: 688.63s - Saved progress.
+2025-02-01 11:33:27,188 - INFO - ✅ Processed 66/70 rows - Time elapsed: 717.15s - Saved progress.
+2025-02-01 11:33:58,834 - INFO - ✅ Processed 67/70 rows - Time elapsed: 748.80s - Saved progress.
+2025-02-01 11:35:02,279 - INFO - ✅ Processed 68/70 rows - Time elapsed: 812.24s - Saved progress.
+2025-02-01 11:35:30,195 - INFO - ✅ Processed 69/70 rows - Time elapsed: 840.16s - Saved progress.
+2025-02-01 11:35:59,812 - INFO - ✅ Processed 70/70 rows - Time elapsed: 869.78s - Saved progress.
+2025-02-01 11:35:59,814 - INFO - 
+🎉 Finished generating CoT for all rows. Final dataset saved to train_with_COT.csv
